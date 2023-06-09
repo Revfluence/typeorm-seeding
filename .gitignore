@@ -1,6 +1,6 @@
 ### generated stuff ###
-dist
-lib
+#dist
+#lib
 es
 coverage
 .rpt2_cache

@@ -1,0 +1,1 @@
+{"version":3,"file":"importer.js","sourceRoot":"","sources":["../src/importer.ts"],"names":[],"mappings":";;;AAEO,MAAM,UAAU,GAAG,KAAK,EAAE,QAAgB,EAA8B,EAAE;IAC/E,MAAM,cAAc,GAAyC,2CAAa,QAAQ,EAAC,CAAA;IACnF,MAAM,IAAI,GAAG,MAAM,CAAC,IAAI,CAAC,cAAc,CAAC,CAAA;IACxC,OAAO,cAAc,CAAC,IAAI,CAAC,CAAC,CAAC,CAAC,CAAA;AAChC,CAAC,CAAA;AAJY,QAAA,UAAU,cAItB"}
